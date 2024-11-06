@@ -1,4 +1,4 @@
-### debian_cheat_sheet
+### windows cheat sheet
 
 #### activator
 https://github.com/massgravel/Microsoft-Activation-Scripts
